@@ -1,0 +1,4 @@
+Fialka 1	Popis fialky - je fialová a hezká	3	2021-05-12	2021-01-01
+Vánoční hvězda bez poznámky	pozor nepřelejt	4	2021-05-10	2021-04-01
+Kaktus suchý		7	2024-02-22	2024-02-22
+Kaktus ultrasuchý		7	2024-02-22	2024-02-22
